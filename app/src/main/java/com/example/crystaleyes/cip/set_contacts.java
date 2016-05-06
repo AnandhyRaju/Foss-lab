@@ -61,6 +61,7 @@ public class set_contacts extends Activity implements AdapterView.OnItemClickLis
         lv.setTextFilterEnabled(true);
 
         // adding
+     
         select = (Button) findViewById(R.id.button1);
         select.setOnClickListener(new View.OnClickListener() {
 
