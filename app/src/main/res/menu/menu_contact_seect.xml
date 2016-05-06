@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.crystaleyes.cip.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Unblock Locs"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/set_rad"
+        android:orderInCategory="100"
+        android:title="Set Radius"
+        app:showAsAction="never" />
+</menu>
