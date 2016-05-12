@@ -1,5 +1,4 @@
 package com.example.crystaleyes.cip;
-
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.content.Context;
