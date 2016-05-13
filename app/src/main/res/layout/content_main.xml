@@ -43,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Turn this App"
+        android:text="Turn on App"
         android:id="@+id/textView6"
         android:layout_marginBottom="59dp"
         android:layout_alignParentBottom="true"
